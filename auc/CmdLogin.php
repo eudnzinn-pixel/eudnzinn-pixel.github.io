@@ -1,0 +1,1 @@
+{"result": 0, "errcode": 0, "result_message": "", "id_for_vender": "guest_001", "svr_time": 1785447600, "suspended_match": 0, "proto_opt": 0, "user_eula_info": {"eula_ip_country_a3": "BRA", "eula_select_country_a3": "BRA"}, "event_ch_mission": 0, "event_is_fail_on_choice_no": 0, "ignore_receipt_error": 0}
