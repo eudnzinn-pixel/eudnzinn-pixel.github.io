@@ -1,0 +1,1 @@
+{"result": 0, "errcode": 0, "result_message": "", "user_id": "guest_001", "player_name": "GUEST", "gp": 100000, "pes_point": 100, "level": 1, "exp": 0, "team_name": "GUEST FC", "emblem_type": 0, "uniform_type": 0}
