@@ -1,0 +1,1 @@
+{"result": 0, "errcode": 0, "result_message": "", "auction_list": [], "page": 1, "max_page": 1}
